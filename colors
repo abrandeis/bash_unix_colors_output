@@ -1,3 +1,7 @@
+#!/bin/bash
+
+
+
 ########################
 ##   FOR COLORS SEEN ON ls COMMANDS
 if [[ $(echo $LS_COLORS | wc -l) -lt 1 ]]; then
